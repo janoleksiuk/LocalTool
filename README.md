@@ -1,8 +1,14 @@
 # LocalTool
 
-I gather handy tools here, like a local PDF compresser/decompresser.
+A small collection of local utilities.
 
-Current content:
-- PDF-compresser.py: Compress PDFs locally using Ghostscript (presets and optional DPI downsampling).
+## Current tools
 
-In the future I will update this README when new tools are added.
+### `PDF-compresser.py`
+Compress PDFs locally using Ghostscript (with presets and optional DPI downsampling).
+
+**Requirements**
+- Ghostscript installed and available in `PATH`
+- Python 3.x
+
+This README will be updated as new tools are added.
